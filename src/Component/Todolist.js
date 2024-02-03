@@ -4,7 +4,7 @@ const Todolist = ({todos,setTodos,setEditTodo}) => {
   const handelSave=(todo)=>{
     setTodos(
       todos.map((item)=>{
-        if(item.id==todo.id)
+        if(item.id===todo.id)
         {
           return{...item,save: !item.save}
         }
