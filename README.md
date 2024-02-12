@@ -10,7 +10,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+Deploys from GitHub.
+https://iridescent-strudel-b99a0f.netlify.app/
+Published on Feb 4.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
